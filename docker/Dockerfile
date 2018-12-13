@@ -1,3 +1,3 @@
 FROM centos:latest
 
-COPY $WORKSPACE/project.jar /opt/jar/
+COPY ./project.jar /opt/jar/
